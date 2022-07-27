@@ -1,0 +1,25 @@
+body{
+    background-color: indianred;
+}
+.fa{
+    color: crimson;
+}
+.box-part{
+    background-color: burlywood;
+    padding: 40px 5px;
+    margin: 20px 0px;
+}
+span{
+    font-size: 12px;
+}
+.text{
+    color: brown;
+    margin: 20px 0px;
+}
+a{
+    color: maroon;
+    border-bottom: 1px solid black;
+}
+.box{
+padding: 60px 0px;
+}
